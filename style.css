@@ -129,6 +129,6 @@ body{
 
 .rodape-imagem{
     height: 100px;
-    display: block;
+    display: flex;
     margin: 0 auto;
 }
